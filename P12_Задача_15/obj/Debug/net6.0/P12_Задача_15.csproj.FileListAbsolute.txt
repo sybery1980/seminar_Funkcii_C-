@@ -1,0 +1,15 @@
+C:\Users\syber\OneDrive\Desktop\GB_2\P12_Задача_15\obj\Debug\net6.0\P12_Задача_15.csproj.AssemblyReference.cache
+C:\Users\syber\OneDrive\Desktop\GB_2\P12_Задача_15\obj\Debug\net6.0\P12_Задача_15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syber\OneDrive\Desktop\GB_2\P12_Задача_15\obj\Debug\net6.0\P12_Задача_15.AssemblyInfoInputs.cache
+C:\Users\syber\OneDrive\Desktop\GB_2\P12_Задача_15\obj\Debug\net6.0\P12_Задача_15.AssemblyInfo.cs
+C:\Users\syber\OneDrive\Desktop\GB_2\P12_Задача_15\obj\Debug\net6.0\P12_Задача_15.csproj.CoreCompileInputs.cache
+C:\Users\syber\OneDrive\Desktop\GB_2\P12_Задача_15\bin\Debug\net6.0\P12_Задача_15.exe
+C:\Users\syber\OneDrive\Desktop\GB_2\P12_Задача_15\bin\Debug\net6.0\P12_Задача_15.deps.json
+C:\Users\syber\OneDrive\Desktop\GB_2\P12_Задача_15\bin\Debug\net6.0\P12_Задача_15.runtimeconfig.json
+C:\Users\syber\OneDrive\Desktop\GB_2\P12_Задача_15\bin\Debug\net6.0\P12_Задача_15.dll
+C:\Users\syber\OneDrive\Desktop\GB_2\P12_Задача_15\bin\Debug\net6.0\P12_Задача_15.pdb
+C:\Users\syber\OneDrive\Desktop\GB_2\P12_Задача_15\obj\Debug\net6.0\P12_Задача_15.dll
+C:\Users\syber\OneDrive\Desktop\GB_2\P12_Задача_15\obj\Debug\net6.0\refint\P12_Задача_15.dll
+C:\Users\syber\OneDrive\Desktop\GB_2\P12_Задача_15\obj\Debug\net6.0\P12_Задача_15.pdb
+C:\Users\syber\OneDrive\Desktop\GB_2\P12_Задача_15\obj\Debug\net6.0\P12_Задача_15.genruntimeconfig.cache
+C:\Users\syber\OneDrive\Desktop\GB_2\P12_Задача_15\obj\Debug\net6.0\ref\P12_Задача_15.dll
