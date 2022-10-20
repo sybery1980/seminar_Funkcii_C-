@@ -5,14 +5,14 @@
 //782 -> 8
 //918 -> 1
 //s = (n / 10) % 10
-Console.Write("Введите трехзначное число: ");
-string syb = Convert.ToString(Console.ReadLine());
+int InputNumber(string message)
+{
+  Console.WriteLine(message);
+  return Convert.ToInt32(Console.ReadLine());
+}
 
-    if(syb.Length >= 3)
-    {
-      Console.WriteLine(syb[1]);
-    } 
-        else
-        {    
-           Console.WriteLine("Число не трехзначное");
-        }
+int inputNumber = InputNumber("Введите 3-х значное число: ");
+
+int syb = (inputNumber % 100) / 10;
+
+Console.WriteLine("\nВ числе "+ inputNumber + "\nВторое число " + syb + "\n");
