@@ -12,3 +12,6 @@ int sqrLength = (ax - bx ) * (ax - bx) + (ay - by) * (ay - by);
 
 double result = Math.Sqrt(sqrLength);
 Console.WriteLine(result);
+
+
+
