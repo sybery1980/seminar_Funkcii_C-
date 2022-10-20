@@ -2,20 +2,22 @@
 //и проверяет, является ли этот день выходным.
 
 
-Console.Write("Введите  число: ");
-int syb = Convert.ToInt32(Console.ReadLine());
-int weekend = 6;
-int max = 8;
+Console.WriteLine ("Введите число: ");
 
-if(syb >= weekend && syb >= max  )
-    {
-        Console.WriteLine(" Недопустимое значение");
-    }
-        else if(syb < weekend)
-    { 
-        Console.WriteLine(" Будний день");
-    }             
-        else
-    {
-        Console.WriteLine(" Выходной день");
-    }
+int syb = int.Parse(Console.ReadLine());
+
+if (syb ==6 || syb ==7)
+{
+Console.WriteLine ("Выходной день" + " \nУра бухать! ");
+}
+else if (syb < 1 || syb > 7)
+{
+Console.WriteLine ("Недопустимое значение " + "\nНе лезь убьет током!");
+}
+else 
+{
+Console.WriteLine ("Будний день" + "\nДостала работа");
+}
+
+//Оператор равенства == возвращает значение true, если его операнды равны.
+// В противном случае возвращается значение false.
