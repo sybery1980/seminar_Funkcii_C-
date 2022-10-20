@@ -1,0 +1,15 @@
+C:\Users\syber\OneDrive\Desktop\GB_2\P13\bin\Debug\net6.0\P13.exe
+C:\Users\syber\OneDrive\Desktop\GB_2\P13\bin\Debug\net6.0\P13.deps.json
+C:\Users\syber\OneDrive\Desktop\GB_2\P13\bin\Debug\net6.0\P13.runtimeconfig.json
+C:\Users\syber\OneDrive\Desktop\GB_2\P13\bin\Debug\net6.0\P13.dll
+C:\Users\syber\OneDrive\Desktop\GB_2\P13\bin\Debug\net6.0\P13.pdb
+C:\Users\syber\OneDrive\Desktop\GB_2\P13\obj\Debug\net6.0\P13.csproj.AssemblyReference.cache
+C:\Users\syber\OneDrive\Desktop\GB_2\P13\obj\Debug\net6.0\P13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syber\OneDrive\Desktop\GB_2\P13\obj\Debug\net6.0\P13.AssemblyInfoInputs.cache
+C:\Users\syber\OneDrive\Desktop\GB_2\P13\obj\Debug\net6.0\P13.AssemblyInfo.cs
+C:\Users\syber\OneDrive\Desktop\GB_2\P13\obj\Debug\net6.0\P13.csproj.CoreCompileInputs.cache
+C:\Users\syber\OneDrive\Desktop\GB_2\P13\obj\Debug\net6.0\P13.dll
+C:\Users\syber\OneDrive\Desktop\GB_2\P13\obj\Debug\net6.0\refint\P13.dll
+C:\Users\syber\OneDrive\Desktop\GB_2\P13\obj\Debug\net6.0\P13.pdb
+C:\Users\syber\OneDrive\Desktop\GB_2\P13\obj\Debug\net6.0\P13.genruntimeconfig.cache
+C:\Users\syber\OneDrive\Desktop\GB_2\P13\obj\Debug\net6.0\ref\P13.dll
